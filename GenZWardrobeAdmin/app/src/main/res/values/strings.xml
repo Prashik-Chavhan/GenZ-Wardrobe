@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gen Z Wardrobe Admin</string>
+    <string name="return_policy">
+        In order to be eligible for a refund,
+        you have to return the product within 155 calendar days of your purchase.
+        The product must be in the same condition that you receive it and undamaged in any way.
+    </string>
+</resources>
