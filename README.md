@@ -66,7 +66,7 @@ Connect an Android device or use an emulator.
 
 Click Run ▶️ in Android Studio.
 
-[Home_Page](assets/home_page.jpg)
+[Home_Page]([assets/home_page.jpg](https://github.com/Prashik-Chavhan/GenZ-Wardrobe/blob/4800587b37fe71b40f552dcbcc31e675783de937/assets/home_page.jpg))
 
 User App
 
