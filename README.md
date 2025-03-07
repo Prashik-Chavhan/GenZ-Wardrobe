@@ -66,7 +66,7 @@ Connect an Android device or use an emulator.
 
 Click Run ▶️ in Android Studio.
 
-🏆 Screenshots
+[Home_Page](assets/home_page.jpg)
 
 User App
 
