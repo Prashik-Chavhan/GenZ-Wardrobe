@@ -6,20 +6,20 @@ GenZ Wardrobe is a modern e-commerce platform with separate apps for Users and A
 
 User App
 
-✅ Modern UI with Jetpack Compose
-✅ Browse products with dynamic filters (Price, Brand, Fabric, Occasion, Color)
-✅ Secure checkout with Razorpay Payment Gateway
-✅ Order tracking with status updates
-✅ Wishlist & Cart Management
-✅ User Authentication (Login/Signup)
-✅ Wallet feature for quick payments
+- ✅ Modern UI with Jetpack Compose
+- ✅ Browse products with dynamic filters (Price, Brand, Fabric, Occasion, Color)
+- ✅ Secure checkout with Razorpay Payment Gateway
+- ✅ Order tracking with status updates
+- ✅ Wishlist & Cart Management
+- ✅ User Authentication (Login/Signup)
+- ✅ Wallet feature for quick payments
 
 Admin App
 
-✅ Dashboard to manage products, orders, and users
-✅ Real-time order tracking & status updates
-✅ Add Product
-✅ Secure Admin Login
+- ✅ Dashboard to manage products, orders, and users
+- ✅ Real-time order tracking & status updates
+- ✅ Add Product
+- ✅ Secure Admin Login
 
 🚀 Tech Stack
 
@@ -38,10 +38,10 @@ Authentication: Firebase Auth
 📂 Project Structure
 
 GenZ-Wardrobe/
-│── UserApp/      # User-facing e-commerce app
-│── AdminApp/     # Admin panel for managing orders & products
-│── README.md     # Project documentation
-│── .gitignore    # Git ignore file
+- │── UserApp/      # User-facing e-commerce app
+- │── AdminApp/     # Admin panel for managing orders & products
+- │── README.md     # Project documentation
+- │── .gitignore    # Git ignore file
 
 🛠️ Installation & Setup
 
@@ -66,10 +66,23 @@ Connect an Android device or use an emulator.
 
 Click Run ▶️ in Android Studio.
 
-[Home_Page]([assets/home_page.jpg](https://github.com/Prashik-Chavhan/GenZ-Wardrobe/blob/4800587b37fe71b40f552dcbcc31e675783de937/assets/home_page.jpg))
-
+## 🏆 Screenshots
 User App
 
+<img src = "assets/send_otp.jpg" width = "250" alt = "User Home Page">
+<img src = "assets/verify_otp.jpg" width = "250" alt = "User Home Page">
+<img src = "assets/home_page.jpg" width = "250" alt = "User Home Page">
+<img src = "assets/products.jpg" width = "250" alt = "User Home Page">
+<img src = "assets/filter_product.jpg" width = "250" alt = "User Home Page">
+<img src = "assets/sort_products.jpg" width = "250" alt = "User Home Page">
+<img src = "assets/product_details.jpg" width = "250" alt = "User Home Page">
+<img src = "assets/product_highlight.jpg" width = "250" alt = "User Home Page">
+<img src = "assets/cart_products.jpg" width = "250" alt = "User Home Page">
+<img src = "assets/order_summary.jpg" width = "250" alt = "User Home Page">
+<img src = "assets/whishlist.jpg" width = "250" alt = "User Home Page">
+<img src = "assets/wallet.jpg" width = "250" alt = "User Home Page">
+<img src = "assets/cart_products.jpg" width = "250" alt = "User Home Page">
+<img src = "assets/my_orders.jpg" width = "250" alt = "User Home Page">
  
 
 Admin App
