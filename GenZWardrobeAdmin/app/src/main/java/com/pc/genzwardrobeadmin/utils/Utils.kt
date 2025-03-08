@@ -3,7 +3,6 @@ package com.pc.genzwardrobeadmin.utils
 import android.content.Context
 import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
-import com.pc.genzwardrobeadmin.R
 import com.pc.genzwardrobeadmin.core.domain.Category
 import okhttp3.internal.immutableListOf
 import java.text.SimpleDateFormat
@@ -43,9 +42,9 @@ object Utils {
 
     object CategoryList {
         val categoryList = listOf(
-            Category(0, "All", R.drawable.all_items),
-            Category(1, "Men's", R.drawable.men),
-            Category(2, "Women's", R.drawable.women)
+            Category(0, "All"),
+            Category(1, "Men's"),
+            Category(2, "Women's")
         )
     }
 
